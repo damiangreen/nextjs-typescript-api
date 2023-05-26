@@ -60,3 +60,9 @@ Keep in mind when building that their free API has a rate limit of 50 calls/minu
 ## Steps to complete your project
 
 - At the start of this project you would have forked the Dauntless React Test repository and once you are complete we would like you to push the code to a public repository in your github account and then provide the link to the repository to Dauntless.
+
+## To do
+
+- Improve styling of currency page
+- Automated tests
+- See if the open source typings library can be updated
